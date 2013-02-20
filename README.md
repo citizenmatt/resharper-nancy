@@ -10,7 +10,7 @@ This plugin will enable the @model directive if Nancy.ViewEngines.Razor is refer
 
 ## IMPORTANT ##
 
-This plugin **requires ReSharper 7.1.2** to be installed. It **WILL NOT WORK WITH EARLIER VERSIONS OF RESHARPER 7.1**, including 7.1.1.
+This plugin **requires ReSharper 7.1.2 (7.1.2000.1478)** to be installed. It **WILL NOT WORK WITH EARLIER VERSIONS OF RESHARPER 7.1**, including 7.1.1.
 
 ## How do I get it? ##
 
