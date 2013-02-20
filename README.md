@@ -16,7 +16,7 @@ This plugin **requires ReSharper 7.1.2 (7.1.2000.1478)** to be installed. It **W
 
 If you wish to just install a copy of the plugins without building yourself:
 
-- Download the latest zip file: [resharper-nancy.1.0.zip](https://dl.dropbox.com/u/57017355/resharper-nancy.1.0.zip)
+- Download the latest zip file: [resharper-nancy.1.0.zip](http://dl.bintray.com/content/citizenmatt/resharper-plugins#resharper-nancy.1.0.zip)
 - Extract everything
 - Run the Install-NancySupport.7.1.bat batch file
 
